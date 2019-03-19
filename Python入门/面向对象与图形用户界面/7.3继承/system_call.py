@@ -1,6 +1,7 @@
 import PyQt5
 
 
+
 class systemcall( object ):
     priority = 0
     name = 'システムコール'
